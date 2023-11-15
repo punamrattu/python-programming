@@ -1,8 +1,6 @@
 """
 It is the CFG Degree graduation day, and you are a photographer who has the task to take photos of our graduates.
-The overall group has an even number of students, but Software graduates wear purple mortarboard hats and Data
-graduates wear black mortarboard hats. In fact, exactly half of all students has purple hats and the other half has
-black ones.
+The overall group has an even number of students, but Software graduates wear purple mortarboard hats and Data graduates wear black mortarboard hats. In fact, exactly half of all students has purple hats and the other half has black ones.
 
 We need to arrange our students in two rows before taking any photos. Each row must contain the same
 number of students and follow these precise guidelines:
