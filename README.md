@@ -17,6 +17,7 @@ Welcome to my Python repository! This collection showcases my problem-solving sk
 |---|---|
 |`api_pokemon_data_collection.py`|Retrieves and saves data from the Pokémon API, showcasing skills in working with APIs and data manipulation.|
 |`class_allocation_calculator.py`|Calculates optimal class allocation for studens, adhering to constraints incl. max class size, even distribution, and minimizing personnel.|
+|`date_calculator.py`|Program for adding days to an inputted date, or comparing the difference in days between two inputted dates.|
 |`graduation_photo_arrangement.py`|Determines if a graduation photo follows guidelines for arranging students based on hat colors and heights, illustrating problem-solving skills|
 |`tests_graduation_photo_arrangement.py`| Unit tests for graduation_photo_arrangement.py, showcasing testing skills.|
 |`longest_palindromic_substring.py`|Generate and prints all possible substrings from the given input string.|
